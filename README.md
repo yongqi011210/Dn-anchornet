@@ -1,4 +1,4 @@
-# Dn-achornet
+# Dn-anchornet
 This repository contains the official implementation of the DN-AnchorNet framework proposed in our paper, which addresses the challenges of small target detection in SAR imagery by jointly modeling denoising and anchor adaptation.
 
 📌 项目简介 | Project Overview
