@@ -17,3 +17,9 @@ This project is based on mmrotate and proposes a set of integrated improvements 
 ✅ Scale-Adaptive Anchor Generator (AdaptiveAnchorGenerator): Improves coverage for small and irregular targets;
 
 ✅ Adaptive Weighted Regression Loss (AdaptiveSmoothL1Loss): Enhances robustness for difficult regression samples.
+
+🚀 快速开始 | Quick Start
+
+pip install -r requirements.txt
+
+python tools/train.py configs/your_config.py
